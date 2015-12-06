@@ -1,5 +1,5 @@
 package com.gittest;
 
 public class Login {
-	public String place = "Pune";
+	public String place = "Bangalore";
 }
